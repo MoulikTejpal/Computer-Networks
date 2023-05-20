@@ -1,10 +1,14 @@
-# Error Detection & Correction
+<h1> <p>  Error Detection & Correction  </br>  (in Python )
 
 ### Error Detection:
-#### -> Checksum
-#### -> Cyclic Redundancy Check
+<ul>
+  <li> Checksum </li>
+  <li> Cyclic Redundancy Check </li>
+</ul>
 
 </br>
 
 ### Error Correction:
-#### -> Hamming Code
+<ul>
+  <li> Hamming Code </li>
+</ul>
