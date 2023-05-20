@@ -1,4 +1,4 @@
-<h1> <p>  Error Detection & Correction  </br>  (in Python )
+<h1> <p>  Error Detection & Correction  </br>  (in Python)
 
 ### Error Detection:
 <ul>
