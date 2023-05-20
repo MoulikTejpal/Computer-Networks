@@ -1,3 +1,3 @@
 # Computer-Networks
 
-Codes which i wrote while learning Computer Networks
+Codes which I wrote, while learning Computer Networks
